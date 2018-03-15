@@ -1,0 +1,19 @@
+cities:
+- name: San Fransisco
+  country: USA
+- name: California
+  country: USA
+- name: Chicago
+  country: USA
+- name: Surat
+  country: India
+- name: Paris
+  country: France
+- name: Rome
+  country: Italy
+- name: Madrid
+  country: Spain
+- name: Seattle
+  country: USA
+- name: Las Vegas
+  country: USA
